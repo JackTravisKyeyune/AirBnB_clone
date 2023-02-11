@@ -1,7 +1,8 @@
 # AirBnB_clone
 AirBnB_clone
 HBNB header
-https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230211T081228Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a4d4a79e1ba7af0af58e7b8aeca6f4ade1d4ab469526d019df658f53f1fd8b1f
+![image](https://user-images.githubusercontent.com/111267510/218254092-4203053b-993e-494a-9105-b97dea937962.png)
+
 
 0x00. AirBnB clone - The console
 Status
@@ -32,6 +33,8 @@ Storage
 All the classes are handled by the Storage engine in the FileStorage Class.
 
 0x02 Environment
+![image](https://user-images.githubusercontent.com/111267510/218254137-1050f19d-7912-4679-943e-db52f40781b6.png)
+
 Suite CRM terminal python Suite CRM Suite CRM git distributed version control system Github
 
 Style guidelines:
